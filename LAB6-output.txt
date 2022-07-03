@@ -1,0 +1,7 @@
+drwxrwxrwt  15 root root  4096 Nov 16 23:18 tmp
+drwxr-xr-x   2 root root  4096 Apr 19  2012 mnt
+drwxr-xr-x   2 root root  4096 Nov 16 21:20 cdrom
+drwxr-xr-x   2 root root  4096 Nov 16 22:50 media
+drwxr-xr-x   3 root root  4096 Nov 16 21:36 home
+lrwxrwxrwx   1 root root    30 Nov 16 22:02 vmlinuz -> boot/vmlinuz-3.13.0-32-generic
+lrwxrwxrwx   1 root root    33 Nov 16 22:02 initrd.img -> boot/initrd.img-3.13.0-32-generic

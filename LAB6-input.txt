@@ -1,0 +1,25 @@
+total 92
+drwxr-xr-x   2 root root  4096 Nov 16 22:04 bin
+drwxr-xr-x   3 root root  4096 Nov 16 22:05 boot
+drwxr-xr-x   2 root root  4096 Nov 16 21:20 cdrom
+drwxr-xr-x  15 root root  4080 Nov 16 22:39 dev
+drwxr-xr-x 127 root root 12288 Nov 16 22:50 etc
+drwxr-xr-x   3 root root  4096 Nov 16 21:36 home
+lrwxrwxrwx   1 root root    33 Nov 16 22:02 initrd.img -> boot/initrd.img-3.13.0-32-generic
+drwxr-xr-x  20 root root  4096 Nov 16 22:04 lib
+drwxr-xr-x   2 root root  4096 Aug  7  2014 lib64
+drwx------   2 root root 16384 Nov 16 21:01 lost+found
+drwxr-xr-x   2 root root  4096 Nov 16 22:50 media
+drwxr-xr-x   2 root root  4096 Apr 19  2012 mnt
+drwxr-xr-x   2 root root  4096 Aug  7  2014 opt
+dr-xr-xr-x 165 root root     0 Nov 16 22:38 proc
+drwx------   6 root root  4096 Nov 16 22:41 root
+drwxr-xr-x  20 root root   740 Nov 16 22:39 run
+drwxr-xr-x   2 root root  4096 Nov 16 22:07 sbin
+drwxr-xr-x   2 root root  4096 Mar  5  2012 selinux
+drwxr-xr-x   2 root root  4096 Aug  7  2014 srv
+dr-xr-xr-x  13 root root     0 Nov 16 22:37 sys
+drwxrwxrwt  15 root root  4096 Nov 16 23:18 tmp
+drwxr-xr-x  10 root root  4096 Aug  7  2014 usr
+drwxr-xr-x  13 root root  4096 Aug  7  2014 var
+lrwxrwxrwx   1 root root    30 Nov 16 22:02 vmlinuz -> boot/vmlinuz-3.13.0-32-generic
